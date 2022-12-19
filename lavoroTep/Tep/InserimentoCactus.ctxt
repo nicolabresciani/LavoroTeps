@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InserimentoCactus
+comment1.params=image\ numero\ attesa\ main
+comment1.target=InserimentoCactus(java.awt.image.BufferedImage,\ int,\ int,\ Gioco)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=g
+comment3.target=void\ disegna(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ aggiorna()
+comment5.params=
+comment5.target=java.util.ArrayList\ getCactus()
+numComments=6

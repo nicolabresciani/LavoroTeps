@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CaricaImmagini
+comment1.params=posizione
+comment1.target=java.awt.image.BufferedImage\ caricaImmagine(java.lang.String)
+numComments=2

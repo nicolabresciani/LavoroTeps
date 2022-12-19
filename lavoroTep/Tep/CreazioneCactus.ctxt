@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CreazioneCactus
+comment1.params=image\ larghezza\ altezza\ x\ y\ velocita\ main
+comment1.target=CreazioneCactus(java.awt.image.BufferedImage,\ int,\ int,\ int,\ int,\ int,\ Gioco)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ aggiorna()
+comment4.params=g
+comment4.target=void\ disegna(java.awt.Graphics)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getLarghezza()
+comment7.params=
+comment7.target=int\ getAltezza()
+comment8.params=
+comment8.target=int\ getY()
+comment9.params=
+comment9.target=java.awt.Rectangle\ getBordi()
+numComments=10

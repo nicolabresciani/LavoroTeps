@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Collisione
+comment1.params=dihno\ cactus
+comment1.target=boolean\ controlloCollisione(Dihno,\ CreazioneCactus)
+numComments=2
